@@ -97,8 +97,10 @@
 
 ![Logs](screenshots/screen25.jpg)
 
-Финальный результат команды _git log_
+Конечный результат команды _git log_
 
 ![git logs](screenshots/screen26.jpg)
+
+![git logs](screenshots/screen27.jpg)
 
 Все скриншоты лежат в папке **screenshots**
