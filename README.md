@@ -95,12 +95,10 @@
 
 ![Logs](screenshots/screen24.jpg)
 
-![Logs](screenshots/screen25.jpg)
-
 Конечный результат команды _git log_
 
-![git logs](screenshots/screen26.jpg)
+![git logs](screenshots/screen25.jpg)
 
-![git logs](screenshots/screen27.jpg)
+![git logs](screenshots/screen26.jpg)
 
 Все скриншоты лежат в папке **screenshots**
