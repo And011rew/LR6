@@ -49,6 +49,7 @@
 ![Readme](screenshots/screen23.jpg)
 Лог команд из папки **.git/logs**
 ![Logs](screenshots/screen24.jpg)
+![Logs](screenshots/screen25.jpg)
 Финальный результат команды _git log_
-![git logs](screenshots/screen25.jpg)
+![git logs](screenshots/screen26.jpg)
 Все скриншоты лежат в папке **screenshots**
